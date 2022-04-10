@@ -11,7 +11,6 @@ $pkg install git
 
 $git clone https://github.com/SagirDEVIL/Devil
 
-Run script
 
 cd Devil
 
